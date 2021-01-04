@@ -1,7 +1,7 @@
 +++
 draft = true
 test = "/./marina.jpg"
-test-text = ""
+test-text = "Test"
 
 +++
 Test
