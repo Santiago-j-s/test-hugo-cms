@@ -2,6 +2,12 @@
 label: Test
 hide_body: false
 fields:
+- name: test-text
+  type: text
+  config:
+    required: false
+  label: Test
+  description: Test
 - name: test
   type: file
   config:
